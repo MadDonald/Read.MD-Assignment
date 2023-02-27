@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "name": "read.me-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
