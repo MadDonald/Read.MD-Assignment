@@ -18,6 +18,9 @@ Download the code straight off of this repo
 ## Usage
 To use this program open the command line software and navagte to the folder that you downloaded this app to, then type in node --experimental-modules index.js to launch the program.
 
+## Tutorial Video
+https://github.com/MadDonald/Read.MD-Assignment/assets/100619060/ae3515e5-f286-4999-84bc-b16c6829efc5
+
 ## Contribution Guidelines
 Email me if you would like to contribute
 
